@@ -1,0 +1,71 @@
+.hp{
+    display:inline;
+    text-decoration:none;
+    float: right;
+}
+.main{
+    display: inline;
+}
+.lol{
+    height: 250px;
+}
+
+.container img {
+ height: auto;
+ width: 1200px;
+}
+.font{
+    font-style: oblique;
+    font-size: 30px;
+}
+.colour{
+    color: palevioletred;
+    font-size: 30px;
+}
+.img{
+margin-left: 20px;
+}
+.img1 {
+    display: inline;
+    height: 200px;
+    margin: 0;
+}
+.img2 {
+    display: inline;
+    height: 200px;
+    margin: 0;
+}
+.img3{
+    display: inline;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+}
+.img4{
+    display: inline;
+    height: 200px;
+    margin: 0;
+}
+.hp  li{
+    float:left;
+    text-decoration: none;
+    list-style-type: none;
+    padding-right: 10px;
+}
+.hp {
+    float: right;
+}
+
+.textt {
+    display: inline-block;
+}
+.dell{
+    background-color:#efe9eb;
+    font-size: 30px;
+}
+.intel{
+    color: pink;
+}
+.photo{
+    background-color: #efe9eb;
+}
